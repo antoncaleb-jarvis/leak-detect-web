@@ -28,6 +28,15 @@ location, dye testing the shell/fittings, dive inspection. Locates the leak
 precisely and hands over a written report - *before* anyone breaks concrete.
 (Research pulled from asppoolco.com, fluidra.com, pooltech.com, reyesleakdetection.com.)
 
+**Equipment:** Anton's kit is the **LeakTronics Pro Complete Plus Kit**
+(leaktronics.com) - LT-2000 acoustic amplifier, deck plate, soil/ground probe,
+pipe mic, side mic, underwater pool scope, video scope with dye injection,
+pressure rig with air/water valves + injection/compression plugs, static testing
+cones, dye injectors, noise-reducing headphones. LeakTronics offers on-site +
+online training/certification. The site names this kit in the "How We Find It"
+section and a "The Kit" band. `[confirm]` whether Anton will be trained/certified
+on it before we claim that.
+
 ## Status (2026-09-09)
 
 - `index.html` = homepage draft v1. Single page: hero, signs-of-a-leak checklist +
