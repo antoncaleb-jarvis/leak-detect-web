@@ -1,15 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Pool Leak Finders mark">
-  <defs>
-    <linearGradient id="plf-drop-i" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#1ecec4"/>
-      <stop offset="1" stop-color="#0f938c"/>
-    </linearGradient>
-  </defs>
   <rect width="120" height="120" rx="24" fill="#0b2733"/>
-  <path d="M84 60 a34 34 0 0 1 -10 24" fill="none" stroke="#15b8b0" stroke-width="4" stroke-linecap="round" opacity="0.55"/>
-  <path d="M94 60 a44 44 0 0 1 -13 32" fill="none" stroke="#15b8b0" stroke-width="4" stroke-linecap="round" opacity="0.3"/>
-  <path d="M52 16 C64 36 78 50 78 68 a26 26 0 1 1 -52 0 C26 50 40 36 52 16 Z" fill="url(#plf-drop-i)"/>
-  <circle cx="52" cy="68" r="11" fill="none" stroke="#04252a" stroke-width="3.5"/>
-  <path d="M52 48 v9 M52 79 v9 M32 68 h9 M63 68 h9" stroke="#04252a" stroke-width="3.5" stroke-linecap="round"/>
-  <circle cx="52" cy="68" r="3" fill="#04252a"/>
+  <g transform="translate(28,16)">
+    <path d="M32 4 C15 4 2 18 2 34 C2 55 32 84 32 84 C32 84 62 55 62 34 C62 18 49 4 32 4 Z" fill="#ffffff"/>
+    <path d="M32 22 C32 22 44 36 44 45 a12 12 0 1 1 -24 0 C20 36 32 22 32 22 Z" fill="#15b8b0"/>
+  </g>
 </svg>
