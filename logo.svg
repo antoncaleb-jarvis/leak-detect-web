@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 132" role="img" aria-label="Pool Leak Finders">
+  <defs>
+    <linearGradient id="plf-drop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1ecec4"/>
+      <stop offset="1" stop-color="#0f938c"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(10,14)">
+    <path d="M92 64 a44 44 0 0 1 -13 31" fill="none" stroke="#15b8b0" stroke-width="4" stroke-linecap="round" opacity="0.5"/>
+    <path d="M104 64 a56 56 0 0 1 -17 41" fill="none" stroke="#15b8b0" stroke-width="4" stroke-linecap="round" opacity="0.28"/>
+    <path d="M52 4 C66 28 82 45 82 65 a30 30 0 1 1 -60 0 C22 45 38 28 52 4 Z" fill="url(#plf-drop)"/>
+    <circle cx="52" cy="65" r="12" fill="none" stroke="#04252a" stroke-width="3.5"/>
+    <path d="M52 43 v10 M52 77 v10 M30 65 h10 M64 65 h10" stroke="#04252a" stroke-width="3.5" stroke-linecap="round"/>
+    <circle cx="52" cy="65" r="3" fill="#04252a"/>
+  </g>
+  <g font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-weight="800">
+    <text x="140" y="60" font-size="40" letter-spacing="1.5" fill="#0b2733">POOL LEAK</text>
+    <text x="140" y="104" font-size="40" letter-spacing="1.5" fill="#0f938c">FINDERS</text>
+  </g>
+</svg>

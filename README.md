@@ -4,22 +4,17 @@ Website for Anton's **third business**: a **swimming pool leak detection** compa
 run separately from All About Pools and Simplicrete.
 
 Repo and vault folder are named by function (`leak-detect-web`, `07 - Leak
-Detection`) - **brand-neutral**, so nothing needs renaming once Anton picks a name.
-Only the site's visible copy carries a name.
+Detection`) - **brand-neutral**. Only the site's visible copy carries the name.
 
-## Name shortlist (Anton to choose)
+## Name (chosen 2026-09-10)
 
-Working placeholder in the draft: **LeakTrace**.
+**Pool Leak Finders** - domain **poolleakfinders.co.za** (registered). Site copy,
+`<title>`, header logo and footer updated off the old "LeakTrace" placeholder.
+Logo: `logo.svg` (primary lockup) + `logo-icon.svg` (icon-only mark), navy/teal,
+droplet + crosshair + acoustic waves.
 
-| Name | Why |
-|---|---|
-| **LeakTrace** *(placeholder in v1)* | clear, professional, strong for Google ("leak" + "trace") |
-| **Pooltight** | short, brandable, the outcome (pool holds water) |
-| **The Leak Detectives** | memorable, friendly, fits the diagnostic angle |
-| **DryLine** | evokes the result - the water line stops dropping |
-| **LeakHound** | approachable, memorable, "sniffs out" leaks |
-
-Also in play: HoldWater, NoDrop, Pinpoint Pool Leaks, Waterline Leak Detection.
+Dropped placeholders/shortlist: LeakTrace, Pooltight, The Leak Detectives,
+DryLine, LeakHound, HoldWater, NoDrop, Pinpoint Pool Leaks, Waterline Leak Detection.
 
 ## What the business does
 
@@ -48,8 +43,6 @@ on it before we claim that.
 
 ## Need from Anton
 
-- **Pick the name** -> then the domain, the logo text, and this repo can be
-  renamed if wanted.
 - Phone, email, WhatsApp, service area.
 - Years of experience, whether leak *repairs* are in-house or referred, and the
   leak-test call-out fee model.
